@@ -3,7 +3,7 @@ This folder contains assignments for a Network Science class I took in the fall 
 
 ## ERGMs & robustness
 In this notebook we:
-1. Fit ERGMs models to the World Trade Web network and investigate their associativity properties,
+1. Fit Exponential Random Graph Models (ERGM) to the World Trade Web network and investigate their associativity properties,
 2. Filter and analyze stock return correlations,
 3. Assess by simulation the robustness of different network topologies with respect to random failures and targeted attakcs.
 
