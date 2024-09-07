@@ -10,4 +10,12 @@ In this notebook we:
 ## Compartmental models
 In this notebook we simulate the Susceptible-Infected (SI), Susceptible-Infected-Susceptible (SIS) and Susceptible-Infected-Recovered (SIR) dynamics on synthetic and real-life networks and investigate their properties.
 
-The notebooks are joint work with Christian Stoppani. 
+## Requirements
+
+To run this project, you'll need to install the required Python packages. You can do this by running the following command:
+
+```bash
+pip install -r requirements.txt
+```
+
+The notebooks are joint work with Christian Stoppani. They are not runnable as some of the datasets are not publicly available. We include an empty `data/` folder to be consistent with the project's structure implied in the scripts.
