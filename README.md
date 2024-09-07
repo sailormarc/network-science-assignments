@@ -1,5 +1,5 @@
 # ERGMs, percolation and compartmentmental models
-This folder contains assignments for a Network Science class I took in the fall semester 2023 at the University of Zurich. It consists of two notebooks:
+This folder contains assignments for a Network Science class I took in the fall semester 2023 at the University of Zurich. It consists of two notebooks, which are joint work with Christian Stoppani. 
 
 ## ERGMs & robustness
 In this notebook we:
@@ -10,4 +10,4 @@ In this notebook we:
 ## Compartmental models
 In this notebook we simulate the Susceptible-Infected (SI), Susceptible-Infected-Susceptible (SIS) and Susceptible-Infected-Recovered (SIR) dynamics on synthetic and real-life networks and investigate their properties.
 
-The notebooks are joint work with Christian Stoppani. 
+
