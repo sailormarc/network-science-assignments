@@ -1,4 +1,4 @@
-# ERGMs, percolation and compartmentmental models
+# ERGMs, robustness and compartmentmental models
 This folder contains assignments for a Network Science class I took in the fall semester 2023 at the University of Zurich. It consists of two notebooks, which are joint work with Christian Stoppani. 
 
 ## ERGMs & robustness
