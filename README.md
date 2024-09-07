@@ -1,5 +1,5 @@
 # ERGMs, percolation and compartmentmental models
-This folder contains assignments for a Network Science class I took in the fall semester 2023. It consists of two notebooks:
+This folder contains assignments for a Network Science class I took in the fall semester 2023 at the University of Zurich. It consists of two notebooks:
 
 ## ERGMs & robustness
 In this notebook we:
